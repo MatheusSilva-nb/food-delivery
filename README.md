@@ -3,13 +3,13 @@
 Delivery app mobile
 
 <h1 align="center">
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img1.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img2.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img3.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img4.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img5.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img6.png" />
-  <img alt="Food-Delivery" title="Food-Delivery" src=".github/img7.png" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img1.PNG" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img2.PNG" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img3.PNG" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img4.PNGg" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img5.PNG" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img6.PNGg" />
+  <img alt="Food-Delivery" title="Food-Delivery" src="https://raw.githubusercontent.com/MatheusSilva-nb/food-delivery/master/.github/img7.PNG" />
 </h1>
 
 <p align="center">
