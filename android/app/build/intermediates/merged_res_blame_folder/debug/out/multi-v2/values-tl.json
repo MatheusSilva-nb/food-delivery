@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mathe_87rak1f\\Desktop\\delivery-app-mobile-videos-04\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "C:\\Users\\mathe_87rak1f\\Desktop\\food-delivery\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\mathe_87rak1f\\.gradle\\caches\\transforms-2\\files-2.1\\dcffa74d8d015470a7eae32b9eb648c7\\jetified-play-services-basement-17.0.0\\res\\values-tl\\values.xml",
