@@ -9,7 +9,7 @@ import { homeStyle } from './home.style';
 
 const HomeScreen = () => {
 
-    const state: number = 3;
+    const state: number = 2;
     
     return (
         <SafeAreaView style={homeStyle.flex}>
